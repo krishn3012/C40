@@ -41,4 +41,5 @@ function draw(){
   if(gameState === 2){
     game.end();
   }
+  text("hi",displayWidth-200,displayHeight-200)
 }
